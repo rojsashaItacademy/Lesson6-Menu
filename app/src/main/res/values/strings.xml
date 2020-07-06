@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="settings">Настройки</string>
+    <string name="about_me">Обо мне</string>
+    <string name="exit">Выход</string>
+    <string name="my_profile">Мой профиль</string>
+    <string name="click">click</string>
+</resources>
